@@ -1,0 +1,22 @@
+{
+  "name": "circlestest",
+  "version": "1.0.0",
+  "description": "EnablementTask",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedcircles/circlestest.git"
+  },
+  "keywords": [
+    "enablement"
+  ],
+  "author": "syedsilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedcircles/circlestest/issues"
+  },
+  "homepage": "https://github.com/syedcircles/circlestest#readme"
+}
